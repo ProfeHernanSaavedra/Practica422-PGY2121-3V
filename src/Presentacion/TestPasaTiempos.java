@@ -27,6 +27,8 @@ public class TestPasaTiempos {
         lista.masLikes();
         lista.masDuracion();
         
+        System.out.println("FIN.....");
+        
         
         
     }
